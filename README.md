@@ -1,4 +1,4 @@
-### Olá! Eu sou André Guilherme 🧛🏾
+### Olá! Eu sou o André Guilherme 🧛🏾
 
 ![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=dracula)
 <div style="display: inline_block"><br>
