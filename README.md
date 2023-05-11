@@ -2,10 +2,10 @@
 
 ![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=dracula)
 <div style="display: inline_block"><br>
+  <img alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="tp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
-  <img alt="css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
 </div>
 
 ##
