@@ -1,8 +1,11 @@
+[![MasterHead](https://tenor.com/view/hacker-gif-18087134)]
+<h1 align="center">Hi 👋, I'm Andreg</h1>
+<h3 align="center">Learning Web Development 🌐</h3>
+
 # 🐉 About Me:
  🖥️ Computer Science <br>
  💻 Systems Analysis and Development <br>
 <br>
-Learning Web Development 🌐
 ## 🛠 &nbsp;Tech Stack
  <div style="display: inle_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
