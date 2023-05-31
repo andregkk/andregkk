@@ -14,7 +14,7 @@ Learning Web Development 🌐
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=dracula)
+![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=tokyonight)
 <div style="display: inline_block">
   
 ## 🧑🏾‍💻 Social 
