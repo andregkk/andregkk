@@ -1,4 +1,3 @@
-[![MasterHead](https://tenor.com/view/hacker-gif-18087134)]
 <h1 align="center">Hi 👋, I'm Andreg</h1>
 <h3 align="center">Learning Web Development 🌐</h3>
 
