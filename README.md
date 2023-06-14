@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreg</h1>
 <h3 align="center">Learning Web Development 🌐</h3>
 
-# 🐉 About Me:
+# 🕸️ About Me:
  🖥️ Computer Science <br>
  💻 Systems Analysis and Development <br>
 <br>
@@ -16,7 +16,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=tokyonight)
+![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=dracula)
 <div style="display: inline_block">
   
 ## 🧑🏾‍💻 Social 
