@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andreg</h1>
-<h3 align="center">Learning Web Development 🌐</h3>
+<h3 align="center">Currently learning on the Salesforce platform. 🌐
+ </h3>
 
-# 🕸️ About Me:
- 🖥️ Computer Science <br>
- 💻 Systems Analysis and Development <br>
+# 🕸️ About Me: <br>
+ - 🎓 Student of Analysis and Systems Development. <br>
 <br>
 ## 🛠 &nbsp;Tech Stack
  <div style="display: inle_block">
