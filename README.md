@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andreg</h1>
-<h3 align="center">Currently learning on the Salesforce platform. 🌐
+<h3 align="center">Currently learning development on the Salesforce platform. 🌐
  </h3>
 
 # 🕸️ About Me: <br>
@@ -16,7 +16,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
 
-![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=dracula)
+![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=transparent )
 <div style="display: inline_block">
   
 ## 🧑🏾‍💻 Social 
