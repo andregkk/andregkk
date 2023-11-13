@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Andreg</h1>
+<h1 align="center">Hello World, I'm Andreg 👾</h1>
 <h3 align="center">Currently learning development on the Salesforce platform. 🌐
  </h3>
 
