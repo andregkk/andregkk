@@ -3,7 +3,7 @@
  </h3>
 
 # 🕸️ About Me:
- - 🎓 Student of Analysis and Systems Development. <br>
+ - 🎓 Graduating in Analysis and Systems Development. <br>
 
 ## 🛠&nbsp;Learning Tech Stack
 
