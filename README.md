@@ -25,7 +25,7 @@
 <div align="left"> 
  
 ![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=transparent)
-<img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregkk&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregkk&hide=html,css,&layout=compact&langs_count=8&theme=dark"/>
 </div>
   
 ## 🧑🏾‍💻 Social 
