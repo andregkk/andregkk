@@ -5,7 +5,7 @@
 # 🕸️ About Me:
  - 🎓 Undergraduate student in Systems Analysis and Development. <br>
  - 🎓 Undergraduate student in Interdisciplinary in science and economics
-## 
+## Currently learning these technologies
 <div style="display: inline_block"><br>
    <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
    <img align="center" alt="RStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
