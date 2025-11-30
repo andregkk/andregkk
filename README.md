@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=header"/>
-<h1 align="center">Hello World, I'm Andreg 👾</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0BDA51&height=120&section=header"/>
+<h1 align="center">Hello World, I'm Andreg. </h1>
 <h3 align="center">I am currently learning to become a developer and data analyst 🎲 </h3>
 
 # 🕸️ About Me:
@@ -13,11 +13,6 @@
 </div>
 
 ##
-
-## ⚙️ &nbsp;GitHub Analytics
-<div align="left"> 
- 
-![andregkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=andregkk&show_icons=true&theme=transparent)
   
 ## 🧑🏾‍💻 Social 
 <div>
@@ -26,4 +21,4 @@
  </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0BDA51&height=120&section=footer"/>
