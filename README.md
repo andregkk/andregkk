@@ -11,8 +11,6 @@
    <img align="center" alt="RStudio" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg"/>
    <img align="center" alt="Sql" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"/>
 </div>
-
-##
   
 ## 🧑🏾‍💻 Social 
 <div>
