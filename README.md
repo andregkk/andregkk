@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0BDA51&height=120&section=header"/>
 <h1 align="center">Hello World, I'm Andreg. </h1>
-<h3 align="center">I am currently learning to become a developer and data analyst 🎲 </h3>
+<h3 align="center">Developer and Data Analyst 🎲 </h3>
 
 # 🕸️ About Me:
  - 🎓 Undergraduate student in Systems Analysis and Development. <br>
